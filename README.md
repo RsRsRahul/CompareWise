@@ -1,7 +1,3 @@
-Here is a draft for the README file for the repository:
-
----
-
 # CompareWise
 
 CompareWise is a project designed to [briefly describe the purpose of your project]. 
